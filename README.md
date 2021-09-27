@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tryagainsam
+- 👋 Hi, I’m @sambassari
 - 👀 I’m interested in everything about tech
 - 🌱 I’m currently learning blockchain and ...
 <!---
